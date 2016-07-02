@@ -1,5 +1,12 @@
 /*全局性导航条样式*/
+body {
+    
+   background-image: url(1.jpg); 
 
+background-color: #f7f7f7  ;
+
+
+}
 .site-nav {
     height: 43px;
     border-top: 3px #123586 solid;
@@ -44,7 +51,9 @@
         width: 1030px;
     }
 }
-
+h4{
+    color: red;
+}
 .abs {
     margin: 10px 0;
     padding: 20px 0;
